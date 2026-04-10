@@ -75,6 +75,8 @@
 
 ## 🚀 Highlight Projects
 
+> Metrics lines below are placeholders. Replace them with your real outcomes.
+>
 - [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels
   ↳ **Result/Metrics:** _[add latency, throughput, memory gain]_  
 - [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks
@@ -111,10 +113,10 @@
 - 📧 **Email (Personal):** `your-personal-email@example.com`
 - 🎓 **Email (Academic):** `your-academic-email@example.edu`
 - 💼 **LinkedIn:** `linkedin.com/in/your-handle`
-- 🧑‍💻 **GitHub:** `github.com/Alperen012`
+- 🧑‍💻 **GitHub:** `github.com/your-handle`
 - 🐦 **X / Twitter:** `x.com/your-handle`
 - 📸 **Instagram:** `instagram.com/your-handle`
 - 🌐 **Portfolio / Website:** `your-domain.com`
 - 📄 **CV / Resume:** `your-resume-link`
-- 📍 **Location:** `Pendik, İstanbul, Türkiye`
-- 🕒 **Timezone:** `TRT (UTC+3)`
+- 📍 **Location:** `your-city, your-country`
+- 🕒 **Timezone:** `UTC±X`
