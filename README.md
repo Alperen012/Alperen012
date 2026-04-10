@@ -1,5 +1,3 @@
-# AI × UAV × Software Engineering
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+GTU;UAV+Software+%26+Computer+Vision+Builder;Exploring+Deep+Learning%2C+MLOps+and+Scalable+Systems;Open+to+Internship+%26+Full-time+Opportunities" alt="Computer Engineering Student at GTU, UAV Software and Computer Vision Builder, Exploring Deep Learning, MLOps and Scalable Systems, Open to Internship and Full-time Opportunities" />
 </p>
@@ -8,6 +6,7 @@
   <a href="https://github.com/Alperen012"><img src="https://img.shields.io/badge/GitHub-Alperen012-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/alperen-söylen"><img src="https://img.shields.io/badge/LinkedIn-Alperen%20S%C3%B6ylen-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:alperensoylen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Alperen012&style=for-the-badge&color=22D3EE" alt="Profile visitors" />
 </p>
 
 ---
