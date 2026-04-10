@@ -106,13 +106,13 @@
 
 ## 📬 Connect
 
-- 📧 **Email (Personal):** [your-personal-email@example.com](mailto:your-personal-email@example.com)
-- 🎓 **Email (Academic):** [your-academic-email@example.edu](mailto:your-academic-email@example.edu)
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- 📧 **Email (Personal):** `your-personal-email@example.com`
+- 🎓 **Email (Academic):** `your-academic-email@example.edu`
+- 💼 **LinkedIn:** `linkedin.com/in/your-handle`
 - 🧑‍💻 **GitHub:** [github.com/Alperen012](https://github.com/Alperen012)
-- 🐦 **X / Twitter:** [x.com/your-handle](https://x.com/your-handle)
-- 📸 **Instagram:** [instagram.com/your-handle](https://instagram.com/your-handle)
-- 🌐 **Portfolio / Website:** [your-domain.com](https://your-domain.com)
-- 📄 **CV / Resume:** [Resume Link](https://example.com/resume)
+- 🐦 **X / Twitter:** `x.com/your-handle`
+- 📸 **Instagram:** `instagram.com/your-handle`
+- 🌐 **Portfolio / Website:** `your-domain.com`
+- 📄 **CV / Resume:** `your-resume-link`
 - 📍 **Location:** Pendik, İstanbul, Türkiye
 - 🕒 **Timezone:** TRT (UTC+3)
