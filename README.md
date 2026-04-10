@@ -110,13 +110,7 @@
 
 > Replace these placeholders with your real contact links.
 >
-- 📧 **Email (Personal):** `your-personal-email@example.com`
-- 🎓 **Email (Academic):** `your-academic-email@example.edu`
-- 💼 **LinkedIn:** `linkedin.com/in/your-handle`
-- 🧑‍💻 **GitHub:** `github.com/your-handle`
-- 🐦 **X / Twitter:** `x.com/your-handle`
-- 📸 **Instagram:** `instagram.com/your-handle`
-- 🌐 **Portfolio / Website:** `your-domain.com`
-- 📄 **CV / Resume:** `your-resume-link`
-- 📍 **Location:** `your-city, your-country`
-- 🕒 **Timezone:** `UTC±X`
+- 📧 **Email (Personal):** `alperensoylen@gmail.com`
+- 🎓 **Email (Academic):** `a.soylen2022@gtu.edu.tr`
+- 💼 **LinkedIn:** `inkedin.com/in/alperen-söylen-aba09a251`
+- 🧑‍💻 **GitHub:** `github.com/Alperen012`
