@@ -98,14 +98,6 @@
 
 ---
 
-## 🏆 Certifications / Courses
-
-> Add your certifications/courses here when available.
->
-> Template: **[Certification/Course Name]** — _[Provider]_ (_[Year]_)
-
----
-
 ## 📬 Connect
 
 > Replace these placeholders with your real contact links.
