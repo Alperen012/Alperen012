@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Alperen012"><img src="https://img.shields.io/badge/GitHub-Alperen012-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/alperen-söylen"><img src="https://img.shields.io/badge/LinkedIn-Alperen%20S%C3%B6ylen-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://inkedin.com/in/alperen-söylen-aba09a251"><img src="https://img.shields.io/badge/LinkedIn-Alperen%20S%C3%B6ylen-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:alperensoylen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Alperen012&style=for-the-badge&color=22D3EE" alt="Profile visitors" />
 </p>
