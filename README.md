@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alperen012"><img src="https://img.shields.io/badge/GitHub-Alperen012-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AlperenSoylen"><img src="https://img.shields.io/badge/GitHub-AlperenSoylen-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/alperen-söylen"><img src="https://img.shields.io/badge/LinkedIn-Alperen%20S%C3%B6ylen-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:alperensoylen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Alperen012&style=for-the-badge&color=22D3EE" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=AlperenSoylen&style=for-the-badge&color=22D3EE" alt="Profile visitors" />
 </p>
 
 ---
@@ -59,16 +59,16 @@
 ## 📊 Live GitHub Signals
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alperen012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alperen012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlperenSoylen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlperenSoylen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alperen012&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AlperenSoylen&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alperen012&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlperenSoylen&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -77,15 +77,15 @@
 
 > Project metrics below are placeholders. Replace them with your real outcomes.
 >
-- [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels
+- [**TurboQuant**](https://github.com/AlperenSoylen/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels
   ↳ **Result/Metrics:** _[add latency, throughput, memory gain]_  
-- [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks
+- [**GTU-GOLGE_Yolov8_Training**](https://github.com/AlperenSoylen/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks
   ↳ **Result/Metrics:** _[add mAP, precision/recall, FPS]_  
-- [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication implementation in Python
+- [**MqttCommunication**](https://github.com/AlperenSoylen/MqttCommunication) — MQTT communication implementation in Python
   ↳ **Result/Metrics:** _[add message latency, stability, number of test scenarios]_  
-- [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning notes and experiments
+- [**Learn_pytorch**](https://github.com/AlperenSoylen/Learn_pytorch) — PyTorch learning notes and experiments
   ↳ **Result/Metrics:** _[add number of completed projects/experiments]_  
-- [**LeetCode-Solutions**](https://github.com/Alperen012/LeetCode-Solutions) — Algorithmic problem-solving archive
+- [**LeetCode-Solutions**](https://github.com/AlperenSoylen/LeetCode-Solutions) — Algorithmic problem-solving archive
   ↳ **Result/Metrics:** _[add problem count, difficulty distribution, streak]_  
 
 ---
@@ -112,5 +112,5 @@
 >
 - 📧 **Email (Personal):** `alperensoylen@gmail.com`
 - 🎓 **Email (Academic):** `a.soylen2022@gtu.edu.tr`
-- 💼 **LinkedIn:** `inkedin.com/in/alperen-söylen-aba09a251`
-- 🧑‍💻 **GitHub:** `github.com/Alperen012`
+- 💼 **LinkedIn:** `linkedin.com/in/alperen-söylen-aba09a251`
+- 🧑‍💻 **GitHub:** `github.com/AlperenSoylen`
