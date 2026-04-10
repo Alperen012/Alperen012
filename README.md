@@ -75,7 +75,7 @@
 
 ## 🚀 Highlight Projects
 
-> Metrics lines below are placeholders. Replace them with your real outcomes.
+> Project metrics below are placeholders. Replace them with your real outcomes.
 >
 - [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels
   ↳ **Result/Metrics:** _[add latency, throughput, memory gain]_  
