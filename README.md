@@ -1,121 +1,94 @@
-# Hi, I'm Alperen Söylen 👋
+# Alperen Söylen | AI × UAV × Software Engineering
 
-🎓 **Computer Engineering Student (3rd Year) @ Gebze Technical University**  
-🚁 **UAV Systems Developer | Team Lead**  
-💼 **.NET Developer Intern @ IWROBOTIX**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+GTU;UAV+Software+%26+Computer+Vision+Builder;Exploring+Deep+Learning%2C+MLOps+and+Scalable+Systems;Open+to+Internship+%26+Full-time+Opportunities" alt="Typing Intro" />
+</p>
 
----
-
-## 📫 Contact
-- **Phone:** +90 536 *** ** **
-- **Email:** alperensoylen@gmail.com
-- **Academic Email:** a.soylen2022@gtu.edu.tr
-- **Location:** Pendik, İstanbul, Türkiye
-- **LinkedIn:** [linkedin.com/in/alperen-söylen](https://linkedin.com/in/alperen-söylen)
-- **GitHub:** [github.com/Alperen012](https://github.com/Alperen012)
+<p align="center">
+  <a href="https://github.com/Alperen012"><img src="https://img.shields.io/badge/GitHub-Alperen012-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/alperen-söylen"><img src="https://img.shields.io/badge/LinkedIn-Alperen%20S%C3%B6ylen-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:alperensoylen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 About Me
-I am a Computer Engineering student focused on **autonomous UAV systems**, **computer vision**, **deep learning**, and software engineering.  
-Although my main focus is image processing, I am also highly interested in **ML, RL, LLM, and SLM** fields.
+## 🔎 Snapshot
 
-I have led software teams in **Teknofest** and **METU VTOL** competitions, reached multiple finals, and achieved top report rankings.  
-I am currently working as a **.NET intern** at IWROBOTIX while continuing to build projects in AI, NLP, and autonomous systems.
-
----
-
-## 🎓 Education
-**B.Sc. in Computer Engineering** — Gebze Technical University (Kocaeli, Türkiye)  
-Expected Graduation: **June 2027**  
-GPA: **3.34 / 4.00**
+- 🎓 3rd year Computer Engineering student at **Gebze Technical University**
+- 🚁 Building software for **autonomous UAV** systems and **computer vision**
+- 💼 **.NET Developer Intern @ IWROBOTIX**
+- 🌱 Currently leveling up in **Deep Learning**, **LLM optimization**, and **MLOps mindset**
+- 🤝 Open to **Internship / Junior Software Engineer** opportunities
 
 ---
 
-## 💼 Experience
-### .NET Developer Intern — IWROBOTIX *(Aug 2025 – Present)*
-- Developed and optimized .NET web applications.
-- Improved stability through debugging and technical documentation.
-- Managed multi-environment deployments via IIS (dev/test/prod).
-- Analyzed performance complaints and improved response times.
+## ⚡ Focus Zones
 
-### Software Team Lead — GTU-GÖLGE, Teknofest 2025 Combat UAV *(Dec 2024 – Jun 2025)*
-- Designed software architecture and led technical coordination.
-- Successfully completed preliminary and critical design report phases.
-
-### Software Team Lead — GTU-Merlin, METU VTOL 2024 *(Mar 2024 – Nov 2024)*
-- Built target detection/tracking systems.
-- Tested autonomous landing and mission management in Gazebo.
-- Team achieved **1st place in Final Design Report** and **4th overall**.
-
-### Team Captain & Software Team Lead — GTU-AQUA, Teknofest 2024 International UAV *(Feb 2024 – Jun 2024)*
-- Led multidisciplinary team logistics, task planning, and technical coordination.
-- Developed swarm UAV coordination algorithms.
-- Integrated long-range Wi-Fi communication for UAV-ground station link.
-
-### Software Team Lead — GTU-Merlin, METU VTOL 2023 *(Mar 2023 – Oct 2023)*
-- Developed autonomous flight software for VTOL UAVs.
-- Improved flight stability with PID + Kalman Filter integration.
-- Developed camera-based global target positioning using Haversine.
-
-### Software Team Member — GTU-ASSOS, Teknofest 2023 International UAV *(May 2023 – Oct 2023)*
-- Contributed to autonomous UAV software system.
-- Built real-time target detection using OpenCV + YOLO.
-- Optimized ML models for Raspberry Pi 4 for real-time inference.
+| Zone | What I do |
+|---|---|
+| 🛩️ Autonomous Systems | UAV mission logic, detection pipelines, field-ready software |
+| 👁️ Computer Vision | OpenCV + YOLO based real-time detection/tracking workflows |
+| 🧠 AI/ML | Model training, optimization, inference performance tuning |
+| 🏗️ Backend Engineering | .NET services, IIS deployment flow, SQL-based systems |
 
 ---
 
-## 🏆 Competitions & Hackathons
-- **Teknofest 2025 Hepsiburada AI Address Resolution Hackathon (SUDO Team):** 43rd on Kaggle leaderboard.
-- **Paribu Hub Code Prix (SUDO Team):** 3rd in Istanbul stage, 4th in Türkiye finals.
+## 🧰 Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,dotnet,tensorflow,pytorch,opencv,git,github,linux,vscode,unity" />
+</p>
 
 ---
 
-## 👥 Leadership & Community
-- **Technical Committee President** — GTU-HUK (May 2024 – May 2025)
-- **Vice President, Technical Committee** — GTU-HUK (May 2023 – May 2024)
+## 📊 Live GitHub Signals
 
-Led 43-member technical teams, coordinated sub-committees, represented teams in national/international events, and organized technical workshops.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alperen012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen012&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alperen012&theme=tokyonight&hide_border=true" />
+</p>
 
-## 📜 Certifications
-- **Sui Foundation İstanbul Bootcamp (Blockchain & Web3)** — 40-hour program + hackathon (Certificate No: UZUHXG-CE000019)
-- **Kaggle: Intro to Machine Learning**
-
----
-
-## 🛠️ Technical Skills
-- **Languages:** Python, C, C++, C#, Java, Lua, Move (Sui)
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn
-- **Computer Vision:** OpenCV, YOLO (v5, v8, v10, v26), real-time detection & localization
-- **NLP:** Text preprocessing, model training, optimization
-- **UAV & Autonomous Systems:** MAVLink, PID, Kalman Filter, Haversine, ROS, Swarm Robotics
-- **Simulation:** Gazebo, Unity
-- **Web/Backend:** .NET, IIS, SQL Server, Visual Studio
-- **Tools:** Git, GitHub, Linux, VS Code
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alperen012&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 🌍 Languages
-- **Turkish:** Native
-- **English:** B2 (Reading/Listening), B1 (Speaking/Writing)
+## 🚀 Highlight Projects
+
+- [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels  
+- [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks  
+- [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication implementation in Python  
+- [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning notes and experiments  
+- [**LeetCode-Solutions**](https://github.com/Alperen012/LeetCode-Solutions) — Algorithmic problem-solving archive
 
 ---
 
-## 🚀 Featured GitHub Projects
-Based on your public repositories:
+## 🏁 Competition Footprint
 
-- [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for llama.cpp with custom CUDA kernels.
-- [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments.
-- [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication project in Python.
-- [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning and experimentation.
-- [**LeetCode-Solutions**](https://github.com/Alperen012/LeetCode-Solutions) — Algorithm and problem-solving solutions.
+- Teknofest 2025 Hepsiburada AI Address Resolution Hackathon — **43rd** on Kaggle leaderboard  
+- Paribu Hub Code Prix — **3rd (Istanbul stage)**, **4th (Türkiye finals)**  
+- METU VTOL 2024 — **1st place Final Design Report**, **4th overall**
 
 ---
 
-## 🔭 Current Focus
-- Advanced computer vision and UAV autonomy
-- Applied ML/RL for intelligent systems
-- LLM/SLM optimization and efficient inference
-- Professional backend development with .NET
+## 📝 Technical Writing Roadmap
+
+I’m preparing practical write-ups around:
+- UAV software architecture & field debugging
+- Computer vision model deployment notes
+- Deep learning experiments and lessons learned
+- Backend reliability and deployment checklists
+
+---
+
+## 📬 Connect
+
+- 📧 Personal: **alperensoylen@gmail.com**
+- 🎓 Academic: **a.soylen2022@gtu.edu.tr**
+- 📍 Pendik, İstanbul, Türkiye
+- 🔗 LinkedIn: [linkedin.com/in/alperen-söylen](https://linkedin.com/in/alperen-söylen)
