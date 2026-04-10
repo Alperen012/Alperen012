@@ -1,7 +1,7 @@
 # Alperen Söylen | AI × UAV × Software Engineering
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+GTU;UAV+Software+%26+Computer+Vision+Builder;Exploring+Deep+Learning%2C+MLOps+and+Scalable+Systems;Open+to+Internship+%26+Full-time+Opportunities" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+GTU;UAV+Software+%26+Computer+Vision+Builder;Exploring+Deep+Learning%2C+MLOps+and+Scalable+Systems;Open+to+Internship+%26+Full-time+Opportunities" alt="Computer Engineering Student at GTU, UAV Software and Computer Vision Builder, Exploring Deep Learning, MLOps and Scalable Systems, Open to Internship and Full-time Opportunities" />
 </p>
 
 <p align="center">
