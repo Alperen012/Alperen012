@@ -21,6 +21,14 @@
 
 ---
 
+## 🎯 Current Goals (2026)
+
+- 🚁 Improve end-to-end UAV autonomy pipeline reliability in real-world scenarios
+- 🧠 Build and optimize practical deep learning systems for vision + LLM workflows
+- ⚙️ Strengthen MLOps and backend engineering practices for scalable deployments
+
+---
+
 ## ⚡ Focus Zones
 
 | Zone | What I do |
@@ -34,8 +42,16 @@
 
 ## 🧰 Toolbox
 
+**Core**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,dotnet,tensorflow,pytorch,opencv,git,github,linux,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,pytorch,opencv,git,github,linux" />
+</p>
+
+**Familiar**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,tensorflow,vscode,unity" />
 </p>
 
 ---
@@ -44,7 +60,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alperen012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen012&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alperen012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -60,10 +76,15 @@
 ## 🚀 Highlight Projects
 
 - [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels  
+  ↳ **Result/Metrics:** _[latency, throughput, memory gain ekle]_  
 - [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks  
+  ↳ **Result/Metrics:** _[mAP, precision/recall, FPS ekle]_  
 - [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication implementation in Python  
+  ↳ **Result/Metrics:** _[message latency, stability, test scenario sayısı ekle]_  
 - [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning notes and experiments  
+  ↳ **Result/Metrics:** _[tamamlanan proje/deney sayısı ekle]_  
 - [**LeetCode-Solutions**](https://github.com/Alperen012/LeetCode-Solutions) — Algorithmic problem-solving archive
+  ↳ **Result/Metrics:** _[problem count, zorluk dağılımı, streak ekle]_
 
 ---
 
@@ -75,19 +96,23 @@
 
 ---
 
-## 📝 Technical Writing Roadmap
+## 🏆 Certifications / Courses
 
-I’m preparing practical write-ups around:
-- UAV software architecture & field debugging
-- Computer vision model deployment notes
-- Deep learning experiments and lessons learned
-- Backend reliability and deployment checklists
+- **[Certification/Course Name]** — _[Provider]_ (_[Year]_)  
+- **[Certification/Course Name]** — _[Provider]_ (_[Year]_)  
+- **[Certification/Course Name]** — _[Provider]_ (_[Year]_)
 
 ---
 
 ## 📬 Connect
 
-- 📧 Personal: **alperensoylen@gmail.com**
-- 🎓 Academic: **a.soylen2022@gtu.edu.tr**
-- 📍 Pendik, İstanbul, Türkiye
-- 🔗 LinkedIn: [linkedin.com/in/alperen-söylen](https://linkedin.com/in/alperen-söylen)
+- 📧 **Email (Personal):** [your-personal-email@example.com](mailto:your-personal-email@example.com)
+- 🎓 **Email (Academic):** [your-academic-email@example.edu](mailto:your-academic-email@example.edu)
+- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- 🧑‍💻 **GitHub:** [github.com/Alperen012](https://github.com/Alperen012)
+- 🐦 **X / Twitter:** [x.com/your-handle](https://x.com/your-handle)
+- 📸 **Instagram:** [instagram.com/your-handle](https://instagram.com/your-handle)
+- 🌐 **Portfolio / Website:** [your-domain.com](https://your-domain.com)
+- 📄 **CV / Resume:** [Resume Link](https://example.com/resume)
+- 📍 **Location:** Pendik, İstanbul, Türkiye
+- 🕒 **Timezone:** TRT (UTC+3)
