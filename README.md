@@ -75,16 +75,16 @@
 
 ## 🚀 Highlight Projects
 
-- [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels  
+- [**TurboQuant**](https://github.com/Alperen012/TurboQuant) — KV-cache compression layer for `llama.cpp` with custom CUDA kernels
   ↳ **Result/Metrics:** _[add latency, throughput, memory gain]_  
-- [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks  
+- [**GTU-GOLGE_Yolov8_Training**](https://github.com/Alperen012/GTU-GOLGE_Yolov8_Training) — YOLOv8 training experiments for UAV vision tasks
   ↳ **Result/Metrics:** _[add mAP, precision/recall, FPS]_  
-- [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication implementation in Python  
+- [**MqttCommunication**](https://github.com/Alperen012/MqttCommunication) — MQTT communication implementation in Python
   ↳ **Result/Metrics:** _[add message latency, stability, number of test scenarios]_  
-- [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning notes and experiments  
+- [**Learn_pytorch**](https://github.com/Alperen012/Learn_pytorch) — PyTorch learning notes and experiments
   ↳ **Result/Metrics:** _[add number of completed projects/experiments]_  
 - [**LeetCode-Solutions**](https://github.com/Alperen012/LeetCode-Solutions) — Algorithmic problem-solving archive
-  ↳ **Result/Metrics:** _[add problem count, difficulty distribution, streak]_
+  ↳ **Result/Metrics:** _[add problem count, difficulty distribution, streak]_  
 
 ---
 
@@ -111,10 +111,10 @@
 - 📧 **Email (Personal):** `your-personal-email@example.com`
 - 🎓 **Email (Academic):** `your-academic-email@example.edu`
 - 💼 **LinkedIn:** `linkedin.com/in/your-handle`
-- 🧑‍💻 **GitHub:** [github.com/Alperen012](https://github.com/Alperen012)
+- 🧑‍💻 **GitHub:** `github.com/Alperen012`
 - 🐦 **X / Twitter:** `x.com/your-handle`
 - 📸 **Instagram:** `instagram.com/your-handle`
 - 🌐 **Portfolio / Website:** `your-domain.com`
 - 📄 **CV / Resume:** `your-resume-link`
-- 📍 **Location:** Pendik, İstanbul, Türkiye
-- 🕒 **Timezone:** TRT (UTC+3)
+- 📍 **Location:** `Pendik, İstanbul, Türkiye`
+- 🕒 **Timezone:** `TRT (UTC+3)`
