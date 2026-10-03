@@ -13,7 +13,7 @@
 
 ## 🔎 Snapshot
 
-- 🎓 3rd year Computer Engineering student at **Gebze Technical University**
+- 🎓 4rd year Computer Engineering student at **Gebze Technical University**
 - 🚁 Building software for **autonomous UAV** systems and **computer vision**
 - 💼 **.NET Developer Intern @ IWROBOTIX**
 - 🌱 Currently leveling up in **Deep Learning**, **LLM optimization**, and **MLOps mindset**
